@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpaceXCompanion.API", "SpaceXCompanion.API\SpaceXCompanion.API.csproj", "{958E0353-CEFF-4898-8C23-EA76EA2FAAD2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{958E0353-CEFF-4898-8C23-EA76EA2FAAD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{958E0353-CEFF-4898-8C23-EA76EA2FAAD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{958E0353-CEFF-4898-8C23-EA76EA2FAAD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{958E0353-CEFF-4898-8C23-EA76EA2FAAD2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
