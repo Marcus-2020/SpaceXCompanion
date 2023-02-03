@@ -31,4 +31,4 @@ To build this project I used:
 
 - .NET 6 minimal API setup;
 - .NET Core HttpClient and IHttpClientFactory;
-- Newtonsoft.Json for JSON serialization and desserialization;
+- Newtonsoft.Json for JSON serialization and deserialization;
